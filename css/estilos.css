@@ -1,0 +1,40 @@
+body {
+    background-image:url('https://image.freepik.com/vetores-gratis/fundo-do-site-mosaico-poligonal-abstrato-azul-triangulo_1164-2380.jpg');
+    background-size: auto;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu {
+    background-color: whitesmoke;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-stytle: italic;
+  }
+  
+  
